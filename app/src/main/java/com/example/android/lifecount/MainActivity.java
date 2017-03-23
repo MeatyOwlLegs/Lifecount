@@ -89,6 +89,5 @@ public class MainActivity extends AppCompatActivity {
         displayLifeRed(lifeRed);
     }
 
-    int lifeGreen;
 
 }
